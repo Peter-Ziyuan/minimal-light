@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD student at BCBL and my research focuses on bilingualism effect, dyslexia and second language development. I use both behavioural and neuroimaging techniques (MRI, EEG and MEG). 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Bilingualism:** image recognition, image generation, video captioning
+- **Dyslexia:** meta-learning, incremental learning, transfer learning
+- **Second Language Development:**
 
 ## News
 
